@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "最大子数组问题/1.0.0": {
+        "runtime": {
+          "最大子数组问题.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "最大子数组问题/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

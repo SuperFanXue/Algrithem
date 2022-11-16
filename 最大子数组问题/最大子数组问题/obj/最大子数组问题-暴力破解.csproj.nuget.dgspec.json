@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\Algrithem\\Algrithem\\最大子数组问题\\最大子数组问题\\最大子数组问题.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\Algrithem\\Algrithem\\最大子数组问题\\最大子数组问题\\最大子数组问题-暴力破解.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\Algrithem\\Algrithem\\最大子数组问题\\最大子数组问题\\最大子数组问题.csproj": {
+    "C:\\Users\\Dell\\Desktop\\Algrithem\\Algrithem\\最大子数组问题\\最大子数组问题\\最大子数组问题-暴力破解.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Algrithem\\Algrithem\\最大子数组问题\\最大子数组问题\\最大子数组问题.csproj",
-        "projectName": "最大子数组问题",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\Algrithem\\Algrithem\\最大子数组问题\\最大子数组问题\\最大子数组问题.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Algrithem\\Algrithem\\最大子数组问题\\最大子数组问题\\最大子数组问题-暴力破解.csproj",
+        "projectName": "最大子数组问题-暴力破解",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\Algrithem\\Algrithem\\最大子数组问题\\最大子数组问题\\最大子数组问题-暴力破解.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Dell\\Desktop\\Algrithem\\Algrithem\\最大子数组问题\\最大子数组问题\\obj\\",
         "projectStyle": "PackageReference",
